@@ -9,7 +9,7 @@ tags:
 
 ## Getting Started
 
-Hello!!
+Hello!! Again!!
 
 Download the [codebase](https://github.com/ladit/astro-blog-zozo) first. [Bun](https://bun.sh) is recommended for this project.
 
